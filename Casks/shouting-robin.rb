@@ -1,6 +1,6 @@
 cask "shouting-robin" do
-  version "0.2.1"
-  sha256 "0949d3650baa42e209a2aa757a8444041dacaa0f6344f3422486bd4c1e2bcb79"
+  version "0.2.2"
+  sha256 "e106ca781f9aec8821460f6dcb12a5991406fbe495ed26d33b7dadc8ca242ff7"
 
   url "https://github.com/zanmato/shouting-robin/releases/download/v#{version}/shoutingrobin-macos-arm64.tar.gz"
   name "Shouting Robin"
