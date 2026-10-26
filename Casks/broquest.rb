@@ -1,6 +1,6 @@
 cask "broquest" do
-  version "0.1.13"
-  sha256 "9358cfc60f1d90bb800bf738b5bbe4d243e49636efbdd04befeb739c53f73d5d"
+  version "0.1.14"
+  sha256 "5a3e0c9dbc91255525dbccdf206a5ae44aeda5c5e766eddaf92e7d42ef732351"
 
   url "https://github.com/zanmato/broquest/releases/download/v#{version}/broquest-macos-arm64.tar.gz"
   name "Broquest"
