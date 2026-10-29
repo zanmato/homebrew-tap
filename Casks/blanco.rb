@@ -1,6 +1,6 @@
 cask "blanco" do
-  version "0.1.5"
-  sha256 "c723632e0079ec71655fb29ae7a7cd727b65a819e330de9a088966009322c66f"
+  version "0.1.6"
+  sha256 "81734ac55113e3482d480acd42401543c2714bed010b85a2f647eb1681fb7edd"
 
   url "https://github.com/zanmato/blanco/releases/download/v#{version}/blanco-macos-arm64.tar.gz"
   name "Blanco"
